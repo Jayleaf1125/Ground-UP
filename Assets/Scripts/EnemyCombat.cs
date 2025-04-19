@@ -4,7 +4,6 @@ public class EnemyCombat : MonoBehaviour
 {
     public float weaponRange = 1f;
     public LayerMask playerLayer;
-    
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
